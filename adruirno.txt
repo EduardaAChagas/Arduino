@@ -1,0 +1,12 @@
+P
+M
+V
+L
+A
+V
+A
+V
+C
+B
+
+xy * 10^z
